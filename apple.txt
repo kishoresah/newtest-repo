@@ -1,3 +1,8 @@
-it is my first commit -1 on apple
+Step 1
+First changes and commit
 
-i am changing it from feature-branch-2
+Step 2 
+Second changes and second commit 
+
+Step3 
+This is third commit 
