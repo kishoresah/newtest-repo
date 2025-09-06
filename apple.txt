@@ -1,3 +1,8 @@
 it is my first commit -1 on apple
 
+<<<<<<< HEAD
+=======
+
+it is my second commit 
+>>>>>>> 3dc6fc8a7dbd2f3e70f474a6a0d2abddf4a9f771
 i am changing it from feature-branch-2
