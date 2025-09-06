@@ -3,3 +3,6 @@ First changes and commit
 
 Step 2 
 Second changes and second commit 
+
+Step3 
+This is third commit 
